@@ -193,7 +193,7 @@ body {
     
     .main{
         margin: auto;
-        height: 400px;
+        height:370px;
         width: 600px;
         flex-direction: row;
     }
